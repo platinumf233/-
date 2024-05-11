@@ -1,1 +1,2 @@
-# -
+# -代码在master里啊我不知道怎么合并仓库，搞半天也不行
+win环境下需要先安装graphviz并且添加bin到path
