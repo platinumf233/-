@@ -1,0 +1,30 @@
+// Huffman Tree
+digraph {
+	root [label="(41)"]
+	root -> rootL
+	rootL [label="(17)"]
+	rootL -> rootLL
+	rootLL [label="E
+(8)"]
+	rootL -> rootLR
+	rootLR [label="F
+(9)"]
+	root -> rootR
+	rootR [label="(24)"]
+	rootR -> rootRL
+	rootRL [label="D
+(11)"]
+	rootR -> rootRR
+	rootRR [label="(13)"]
+	rootRR -> rootRRL
+	rootRRL [label="(6)"]
+	rootRRL -> rootRRLL
+	rootRRLL [label="B
+(2)"]
+	rootRRL -> rootRRLR
+	rootRRLR [label="A
+(4)"]
+	rootRR -> rootRRR
+	rootRRR [label="C
+(7)"]
+}
